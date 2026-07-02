@@ -28,7 +28,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [ork.ad](https://ork.ad/) every **Sunday**; GitHub `1m` sample updated in sync
 
-> **Sample on GitHub** · `USDCAD_1m.csv` (179,814 rows, `2025-12-26` → `2026-06-26`). **Full archive on [ork.ad](https://ork.ad/)** — **7,319,941** `1m` rows (~386.56 MB), **13 timeframes** (``1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W``), `2005-12-11` → `2026-06-26`.
+> **Sample on GitHub** · `USDCAD_1m.csv` (179,814 rows, `2025-12-26` → `2026-06-26`). **Full archive on [ork.ad](https://ork.ad/)** — **7,319,941** `1m` rows (~414.48 MB), **13 timeframes** (``1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W``), `2005-12-11` → `2026-06-26`.
 
 ## Download sample
 
@@ -45,7 +45,7 @@ Interactive chart & stats: **[https://ork-ad.github.io/usdcad-1m-ohlcv-forex-his
 | Instrument | US Dollar / Canadian Dollar · Forex | US Dollar / Canadian Dollar · Forex |
 | Timeframes | `1m` only (sample) | **13** — `1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W` |
 | 1m rows | 179,814 | **7,319,941** |
-| Size | 9.75 MB | ~386.56 MB |
+| Size | 9.75 MB | ~414.48 MB |
 | Period | `2025-12-26` → `2026-06-26` | `2005-12-11` → `2026-06-26` |
 | File | `USDCAD_1m.csv` | ZIP on [ork.ad](https://ork.ad/) |
 | Updates | Weekly (Sunday) — GitHub sample | Weekly (Sunday) — all timeframes |
